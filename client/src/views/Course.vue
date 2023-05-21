@@ -44,7 +44,7 @@
                         <div style="padding: 0;" class="row">
                           <div class="guildJoinReason guildJoinReasonContainer">
                             <div class="iconContainer"><img class="guildJoinReasonEmojiIcon"
-                                                                   src="/assets/df8b5c1e4abb97e748071aeb28f1ba38.svg"
+                                                                   src=""
                                                                    alt=""></div>
                             <div class="guildJoinReasonTextContainer">
                               <div style="font-size: 12px; line-height: 16px;">How chatty?</div>
@@ -55,7 +55,7 @@
                           </div>
                           <div class="guildJoinReason guildJoinReasonContainer">
                             <div class="iconContainer"><img class="guildJoinReasonEmojiIcon"
-                                                                   src="/assets/7be2358758e81e1ab253eb071a9527c7.svg"
+                                                                   src=""
                                                                    alt=""></div>
                             <div class="guildJoinReasonTextContainer">
                               <div style="font-size: 12px; line-height: 16px;">Server created</div>
@@ -64,7 +64,7 @@
                           </div>
                           <div class="guildJoinReason guildJoinReasonContainer">
                             <div class="iconContainer"><img class="guildJoinReasonEmojiIcon"
-                                                                   src="/assets/a6d05968d7706183143518d96c9f066e.svg"
+                                                                   src=""
                                                                    alt=""></div>
                             <div class="guildJoinReasonTextContainer">
                               <div style="font-size: 12px; line-height: 16px;">Meet other developers
@@ -74,7 +74,7 @@
                           </div>
                           <div class="guildJoinReason guildJoinReasonContainer">
                             <div class="iconContainer"><img class="guildJoinReasonEmojiIcon"
-                                                                   src="/assets/9515c498b6c2e3d2e3e3b5ad73b6c22f.svg"
+                                                                   src=""
                                                                    alt=""></div>
                             <div class="guildJoinReasonTextContainer">
                               <div style="font-size: 12px; line-height: 16px;">Learn everything there
@@ -85,7 +85,7 @@
                           </div>
                           <div class="guildJoinReason guildJoinReasonContainer">
                             <div class="iconContainer"><img class="guildJoinReasonEmojiIcon"
-                                                                   src="/assets/0634b5f01a88a0121bed072779e81bd6.svg"
+                                                                   src=""
                                                                    alt=""></div>
                             <div class="guildJoinReasonTextContainer">
                               <div style="font-size: 12px; line-height: 16px;">Be notified of the
@@ -96,7 +96,7 @@
                           </div>
                           <div class="guildJoinReason guildJoinReasonContainer">
                             <div class="iconContainer"><img class="guildJoinReasonEmojiIcon"
-                                                                   src="/assets/212e30e47232be03033a87dc58edaa95.svg"
+                                                                   src=""
                                                                    alt=""></div>
                             <div class="guildJoinReasonTextContainer">
                               <div style="font-size: 12px; line-height: 16px;"></div>
